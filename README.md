@@ -1,2 +1,2 @@
-# Model-skrzy-owa-w-SUMO
+# Model-skrzyzowan-w-SUMO
 Autorzy: Kamila Ćwikła, Klaudia Stodółkiewicz
