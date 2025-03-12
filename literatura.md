@@ -62,19 +62,16 @@
 
 - co nie wspiera SUMO
 
-      - dokładne odwzorowanie geometrii sieci drogowej
+  - dokładne odwzorowanie geometrii sieci drogowej za ą krzywych (niedopuszczalne jest użycie linii wiementowej)
+  - symulacja ruchu kolumny pojazdów (na potrzebysymrów pojazdów uprzywilejowanych)
+  - sterowanie ruchem na skrzyżowaniu przez policjanta
+  - symulacja i sterowanie ruchem autonomicznym w czasie rzeczywistym
+  - symulacja korytarza życia w reakcji na pojawienie się pojazdu uprzywilejowanego.
 
-  za ą krzywych (niedopuszczalne jest użycie linii
-  wiementowej) - symulacja ruchu kolumny pojazdów (na potrzeby
-  symrów pojazdów uprzywilejowanych) - sterowanie ruchem na skrzyżowaniu przez policjanta - symulacja i sterowanie ruchem autonomicznym w czasie rzeczywistym - symulacja korytarza życia w reakcji na pojawienie się pojazdu uprzywilejowanego.
-
-- SUMO i OSM (OpenStreetMap) - SUMO pozwala na wykorzystanie danych
-  OSM (OpenStreetMap) do wygenerowania danych
-  o ścieżkach ruchu, znakach i sygnalizacji świetlnej.
-  Niestety dane OSM są tworzone przez szeroką spo-
-  łeczność, w związku z czym są podatne na błędy - w danych OSM często
-  brakuje informacji o rzeczywistej geometrii danego
-  fragmentu drogi - działa w uporszczony sposób; ciężko jest wygenerować złożone skrzyżowania w sposób automatyczny
+- SUMO i OSM (OpenStreetMap)
+  - SUMO pozwala na wykorzystanie danych OSM (OpenStreetMap) do wygenerowania danych o ścieżkach ruchu, znakach i sygnalizacji świetlnej. Niestety dane OSM są tworzone przez szeroką społeczność, w związku z czym są podatne na błędy
+  - w danych OSM często brakuje informacji o rzeczywistej geometrii danego fragmentu drogi
+  - działa w uporszczony sposób; ciężko jest wygenerować złożone skrzyżowania w sposób automatyczny
 
 ---
 
